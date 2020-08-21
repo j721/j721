@@ -6,6 +6,8 @@ Some relevant links:
 
 Here is a link to my portfolio: https://julia-vu-fullstack-developer.netlify.app/
 
+Here is a link to my twitter: https://github.com/kautukkundan/Awesome-Profile-README-templates/blob/master/code-styled/anmol098.md
+
 Here is a link to my codepen: https://codepen.io/j721
 
 
