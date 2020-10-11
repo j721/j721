@@ -4,7 +4,7 @@ Hi, I'm Julia! I'm a full stack developer who loves having my creative and inven
 
 Skills 
 
-React | Redux | Node.js | Javascript | Python | APIs | OOP | Algorithms | Data Structures | Deployment | Git | REST | SQL | Security | Unit testing | Jest | Cypress | HTML | CSS | LESS |Bootstrap |Styled Components| PostgreSQL | Postman 
+React | Redux | Node.js | Javascript | Python | APIs | OOP | Algorithms | Data Structures | Deployment | Git | REST | SQL | Unit testing | Jest | Cypress | HTML | CSS | LESS |Bootstrap |Styled Components| PostgreSQL | Postman 
  
 Some relevant links:
 
