@@ -10,8 +10,5 @@ Some relevant links:
 
 Here is a link to my portfolio: https://julia-vu-fullstack-developer.netlify.app/
 
-Here is a link to my twitter: https://twitter.com/j72114
-
-Here is a link to my codepen: https://codepen.io/j721
 
 
